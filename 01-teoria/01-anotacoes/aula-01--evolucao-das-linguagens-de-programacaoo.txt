@@ -1,0 +1,68 @@
+
+	EVOLUÇÃO DAS LINGUAGENS DE PROGRAMAÇÃO:
+
+   → Nesse curso vamos estudar os fundamentos de programação das linguagens imperativas.
+
+   → Onde tudo começou?
+	Basicamente, na Alemanhã.
+
+   → EM 1801 O FRANCÊS JACQUARD LOOM:
+	inventou uma máquina de tear toda mecânica, onde as agulhas formavam padrões de costura. 
+	O método como JACQUARD conseguiu 'programar' as tábuas dele para que fizessem o padrão que tanto precisava, ajudam a entender como funciona a programação.
+
+   → CHARLES BABBAGE EM 1842:
+	É considerado o pai da computação, pensou em uma máquina automatizada para fazer cálculos. 
+	Mais tarde ele afirmava que um protótipo seu seria capaz de realizar qualquer tipo de cálculo através de cartões perfurados que programariam a máquina, lhe mostransdo o que deveria ser feito.
+	O nome da primeira programadora da história foi a ADA, filha de um músico antigo, ela gostava de matemática e foi discipula de Charles Babbage.
+
+    → 1880 - HERMAM HOLLERITH:
+	Criador de uma máquina tabuladora (que processava dados de senso), que usava os inventos de JACQUARD. 
+	Basicamente ele trabalhava em uma coisa de contar pessoas e percebeu que o último levantamento desses números demorou cerca de 8 anos para ficar pronto de modo que, o número já não era condizente com a realidade. 
+	E com a invenção dele o senso de pessoas demorou 6 anos para ficar pronto.
+
+	Depois disso ele resolveu emprender e se juntou com empresas para vender máquinas que automatizassem algumas coisas. 
+	Ele quem criou uma máquina que calculava quantas horas você trabalhou, por isso o nome olerite.
+
+	Depois de sua empresa fazer sucesso, ele e o seu grupo de empresas parceiras decidiram mudar o nome da nova empreitada para BUSINESS INTERNATIONAL MACHINE e foi aí que nasceu a IBM.
+_____________________________________________________________________________________________________________________________________________________________________________________________	
+
+	O SURGIMENTO DAS PRIMEIRAS LINGUAGENS DE PROGRAMAÇÃO PROPRIAMENTE DITAS:
+	
+    → Em 1936, na Alemanhã, Konhad Zuse foi a primeira pessoa que conseguiu programar uma máquina. A PRIMEIRA LINGUAGEM DE PROGRAMAÇÃO foi PLANKALKUL.
+
+    → EM 1938 - ALAN TURING: 
+	O povo britânico havia declarado aliança aos Estados Unidos e consequentemente guerra à Alemanhã. 
+	Mas havia uma máquina alemã chamada de 'Enigma', que criptografava as mensagens dos nazistas para que somente eles conseguissem as ler. 
+	Alan foi o resposável por criar uma máquina que pudesse desvendar as mensagens codificadas através de uma máquina programada com lógica para cada parte do enigma. 
+
+    → EM 1944 SURGIU O ENIAC:
+	O ENIAC foi um dos primeiros computadores a usar equipamentos eletrônicos (as válvulas) para funcionar, ele também operava em forma de sistema decimal. 
+	Ele foi um dos primeiros computadores eletrônicos da histórias criada pela universidade da pensilvânia.
+	ENIAC tinha como objetivo principal computar dados balísticos de artilharia em altas velocidades para ajudar as tropas aliadas na Segunda Guerra Mundial.
+
+    → 1946 - O FAMOSO JOHN VON NEUMANN:
+	Foi ele quem pensou em uma arquitetura diferente para as máquinas, sugeriu a criação de uma memória onde os dados e aplicações seriam armazenadas.
+	Na ideia dele uma máquina teria uma MEMÓRIA PRINCIPAL, UNIDADE CENTRAL DE PROCESSAMENTO dividida em UNIDADE LÓGICA ARITIMÉTICA e UNIDADE DE CONTROLE.
+	QUE é como as maquinas são arquitetadas atualmente.
+
+    → Todas essas tragetórias passadas ajudaram no processo de criação da PRIMEIRA LINGUAGEM DE PROGRAMAÇÃO DO MUNDO, a FORTRAN.
+    	Foi criada por John Backusm, funcionário da IBM. E logo depois de criar esse grande projeto ele entrou em outro projeto de linguagem de programação a 'ALGOL'.		
+_____________________________________________________________________________________________________________________________________________________________________________________________	
+
+    → 1959 - GRACE HOPPER:
+	Formada em matemática e física e oficial do marinha, trabalhava há muito com computação no mark 1 e mark 2. Em 1950  foi ser programadora do UNIVAC.
+	UNIVAC → (empresa desenvolvedora de computadores formada em 1950)
+	Ela também criou o Flowmachique.
+	O TERMO BUG VEM DESSA MOÇA, pois ela encontrou um inseto dentro de uma máquina que fazia o 'pc' da época não funcionar. 
+	Inseto em inglês é BUG, e o bag é popular por fazer as coisas não funcionarem corretamente. Ou seja, aquele BUG (inseto) fez o sistema não funcionar.
+
+	Ela teve grande relevância na história do COBOL, que visava uma linguagem de programação para militares e negócios.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________	
+
+	CURIOSIDADE: 
+
+    → Que fique pro seu conhecimento que a liguagem C surgiu em 1972 e C++ surgiu em 1983, python em 1991, 1993 Ruby, 1995 java e php e livescript (java scritp)
+    → C# (c charp.) surgiu em 2000.
+
+	* Estude Kotlin, que surgiu em 2011, serve para programação em Android.

@@ -1,0 +1,43 @@
+	
+	AULA 02 - COMO FUNCIONAM AS LINGUAGENS?
+
+    → Tenha em mente que as liguagens de programação são como idiomas (O seu código é uma tradução do que você quer que o computador faça.)
+
+    → LINGUAGEM DE ALTO NÍVEL: 
+	Está mais perto de você, isso é, mais fácil de compreender humanamente falando.
+
+   → EXISTEM TRÊS PROCESSOS IMPORTANTES PARA REALIZAR ESSA TRADUÇÃO:
+
+	1º PRIMEIRO: O SEU CÓDIGO FONTE PASSA POR UM COMPILADOR:
+		O compilador traduz a sua linguagem de alto nível (seu código) e vai jogar para uma linguagem intermediária de baixo nível. É uma linguagem de montagem.
+		A linguagem de montagem tem instruções básicas de como convertem esse programa em linguagem de máquina.
+	
+	2º SEGUNDO: PROCESSO DE COMPILAÇÃO E MONTAGEM (INTERPRETADOR):
+		Nessa etapa o computador vai pegar seu código e verificar se não há erros de sintaxe, ou alguma outra coisa que impeça que a montagem seja feita. 
+		Vai permitir a tradução automática do código fonte ATRAVÉS DE UM INTERPRETADOR diretamente ao código de máquina, comando por comando. É o que chamamos de INTERPRETADOR!
+		Então o programa é interpretado e depois disso código fonte é diretamente convertido pra linguagem de máquina e cada linguagem tem o seu.
+
+	3º MONTADOR PARA LINGUAGEM DE MÁQUINA:
+		Ele é um tradutor que faz a tradução da linguagem de baixo nível (linguagem de montagem) para linguagem de máquina. 
+		É O QUE CHAMAMOS DE CÓDIGO EXECUTÁVEL.
+		CÓDIGO → COMPILAÇÃO → MONTAGEM → MONTADOR → LINGUAGEM DE MÁQUINA.
+
+	Esse procedimento é feito pelas LINGUAGEM C e PASCAL, por exemplo.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________
+
+	MÉTODO 2
+
+    → 1º MÉTODO:
+	Ele pega o seu código fonte e joga na memória. Por isso ele demora um pouco para abrir, pois ele está compilando os códigos e jogando na memória principal para daí então ser executado. 
+	É o que acontece com o word, excel, o windows quando fica aquela bolinha de load, por exemplo.
+
+    → 2º MÉTODO:
+	O interpretador pega linha por linha e joga na memória que fará a conversão para a linguagem de máquina. Ele vai fazer esse processo linha por linha.
+	(Java Script, Python) usam esse método.
+	Ele gera mais economia de memória ram, mas exige um processamento mais parrudo.
+
+    → 3º MÉTODO:
+ 	Funciona como um emulador de vídeo game, ele gera um código para uma VM(Máquina virtual - virtual machine) que fará o seu computador interpretar os seus códigos, os bitcodes. 
+	O código em si não roda na sua máquina mas sim em um grande 'emulador' que interpreta tudo e joga pro seu PC os resultados em linguagem que ele 'compreende'. 
+
